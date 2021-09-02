@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hey Hey Hey 👋  
+
+[![Khushal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kstheking)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - 🔭 I’m currently working on getting myself placed aha
 - 🌱 I’m currently learning Angular
