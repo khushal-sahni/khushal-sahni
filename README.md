@@ -1,6 +1,6 @@
 ### Hey Hey Hey 👋  
 
-[![Khushal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kstheking&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Khushal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kstheking&show_icons=true&theme=vue&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🔭 I’m currently working on getting myself placed aha
