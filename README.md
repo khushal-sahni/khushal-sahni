@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I believe in the religion of Linux, would you like to join our cult?  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kstheking&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kstheking&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kstheking)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
