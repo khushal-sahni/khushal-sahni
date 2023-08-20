@@ -5,7 +5,6 @@
 
 - 🔭 Living the SDE life
 - 📫 How to reach me: mail me at kstheking0@gmail.com
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: I believe in the religion of Linux, would you like to join our cult?  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kstheking&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
